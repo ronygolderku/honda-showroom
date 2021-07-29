@@ -1,3 +1,10 @@
+.bg-color{
+    background-color: #264653;
+}
+.btn-bg{
+    background-color: 
+    #E76F51;
+}
 .bg-gradient img{
     filter: grayscale(100%);
 }
